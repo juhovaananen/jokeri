@@ -1,0 +1,23 @@
+p {
+    font-weight: bold;
+}
+
+td {
+    border-radius: 10px;
+    background-color: beige;
+    width: 10px;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+button {
+    border-radius: 10px;
+    background-color: beige;
+    width: 100px;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+button:hover {
+    cursor: pointer;
+}
